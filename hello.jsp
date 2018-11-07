@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<a href="/userregistration">Back to form</a>
-<p>Hello ${ First Name }.
+<a href="/userregistration"></a>
+<p>Hello ${ first }.
 </body>
 </html>

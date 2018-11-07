@@ -12,7 +12,7 @@
 
 <form action = "/hello">
 <fieldset>
-First Name: <input type = "text"><br />
+First Name: <input type = "text" name = "first" /><br />
 Last Name: <input type = "text"><br />
 Email: <input type = "text"><br />
 Phone Number: <input type = "text"><br />
