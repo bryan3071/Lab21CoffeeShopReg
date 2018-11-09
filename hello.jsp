@@ -10,5 +10,6 @@
 
 <a href="/userregistration"></a>
 <p>Hello ${ first }.
+<p>Phone Number is ${ phonenumber }</p>.
 </body>
 </html>
