@@ -14,7 +14,7 @@
 <form action = "/hello" class = "input-form">
 <fieldset>
 First Name: <input type = "text" name = "first" placeholder = "first name"><br />
-Last Name: <input type = "text" ><br />
+Last Name: <input type = "text" name = "last" placeholder = "last name"><br />
 Email: <input type = "text"><br />
 Phone Number: <input type = "tel" name = "phonenumber" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"
 required><br />

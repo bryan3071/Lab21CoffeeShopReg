@@ -9,7 +9,7 @@
 <body>
 
 <a href="/userregistration"></a>
-<p>Hello ${ first }.
+<p>Hello ${ first } ${ last }.</p>
 <p>Phone Number is ${ phonenumber }</p>.
 </body>
 </html>
